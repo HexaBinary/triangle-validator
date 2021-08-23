@@ -1,4 +1,0 @@
-/Users/hexabinary/Projects/triangle-validator/triangle-validator/bin/Release/net5.0/publish/triangle-validator.dll
-/Users/hexabinary/Projects/triangle-validator/triangle-validator/bin/Release/net5.0/publish/triangle-validator.deps.json
-/Users/hexabinary/Projects/triangle-validator/triangle-validator/bin/Release/net5.0/publish/triangle-validator.runtimeconfig.json
-/Users/hexabinary/Projects/triangle-validator/triangle-validator/bin/Release/net5.0/publish/triangle-validator.pdb
